@@ -1,0 +1,56 @@
+body {
+    background-color:#b4b0b0;
+}
+
+.background{
+    background-color: white;
+    width: 350px;
+    height: 450px;
+    border: 1px solid grey;
+    box-shadow: 1px white;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.symbol{
+    width: 45px;
+    height: 45px;
+    margin-left:15px; 
+    margin-top: 15px;
+    line-height: 45px;
+    text-align: center;
+    vertical-align: middle; 
+    border-radius: 50%; 
+    color: white;
+    background-color: red;
+    float: left;
+}
+
+.logo_R{
+    font-size: 20px;
+}
+
+.header-content{
+    width: 60%;
+    height: 100%;
+    float: left;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+
+
+.txt{
+    color: gray;
+    padding: 0px 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.icons{
+    margin: 30px 0px 0px 10px;
+}
+
